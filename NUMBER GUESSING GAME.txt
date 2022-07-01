@@ -1,5 +1,4 @@
-
-                                                        NUMBER GUESSING GAME
+                                                               NUMBER GUESSING GAME
 #include<stdio.h>                
 #include<stdlib.h>
 #include<time.h>
